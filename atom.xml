@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spacesmen.github.io</id>
     <title>专升太空的小站</title>
-    <updated>2021-08-16T19:48:52.654Z</updated>
+    <updated>2021-08-16T19:50:50.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://spacesmen.github.io"/>
     <link rel="self" href="https://spacesmen.github.io/atom.xml"/>
@@ -335,9 +335,9 @@ PS：如果无法一次性全款购买课程，可以选择京东白条进行分
 </table>
 <p>相对于其他省份，重庆市统招专升本具有以下特点</p>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3529671"><label class="task-list-item-label" for="task-item-3529671"> 全市统考，报考学生人数多，学生竞争压力大</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-406268"><label class="task-list-item-label" for="task-item-406268"> 学生可以自由选择自己相近的专业，甚至转专业</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2581449"><label class="task-list-item-label" for="task-item-2581449"> 竞争压力主要集中在公办名额上，民办竞争压力小</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-8188505"><label class="task-list-item-label" for="task-item-8188505"> 全市统考，报考学生人数多，学生竞争压力大</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-8687070"><label class="task-list-item-label" for="task-item-8687070"> 学生可以自由选择自己相近的专业，甚至转专业</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-9370089"><label class="task-list-item-label" for="task-item-9370089"> 竞争压力主要集中在公办名额上，民办竞争压力小</label></li>
 </ul>
 <p>我们来看一个趋势图，便可知重庆市统招专升本的竞争压力大小</p>
 <table>
